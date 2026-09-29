@@ -3,7 +3,7 @@
 Checkpoint 02 — FIAP · Ciência da Computação · 2º semestre
 **Integrantes:**
 
-**Ângelo Malta Reina — RM 570769
+Ângelo Malta Reina — RM 570769
 
 Gustavo Mendonça Duarte — RM 570561
 
@@ -11,7 +11,7 @@ Matheus Carpinheiro Moreno — RM 571770
 
 Renan de Castro Albuquerque — RM 570532
 
-Vinícius Souza Ferraz — RM 570622**
+Vinícius Souza Ferraz — RM 570622
 
 ## Objetivo
 
